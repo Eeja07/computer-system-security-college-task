@@ -1,33 +1,27 @@
-<<<<<<< HEAD
-# Hands-On Lab SEED - Security Reports
+# Hands-On Lab SEED -  Computer System Security Tasks Reports
 
-## 👤 Identitas
+## Identitas
 
-* Nama: Mahija
-* NIM: [ISI NIM]
-
+* Nama: Mahija Ibad Pradipta
+* NRP : 5024221026
+* Lecturer: Arta Kusuma Hernanda S.T. M.T.
 ---
 
-## 📊 Status Laporan
+## Status Laporan
 
 | Report | Topik           | Status | Link                        |
 | ------ | --------------- | ------ | --------------------------- |
-| R1     | Software Attack | ⏳      | [R1](r1-software-attack.md) |
-| R2     | Buffer Overflow | ⏳      | [R2](r2-buffer-overflow.md) |
-| R3     | OS Attacks      | ⏳      | [R3](r3-os-attacks.md)      |
-| R4     | Web Attacks     | ⏳      | [R4](r4-web-attacks.md)     |
-| R5     | Network Attacks | ⏳      | [R5](r5-network-attacks.md) |
-| R6     | Network Defense | ⏳      | [R6](r6-network-defense.md) |
-| R7     | Kriptografi     | ⏳      | [R7](r7-kriptografi.md)     |
-
-Keterangan:
-
-* ⏳ = Belum selesai
-* ✅ = Selesai
+| R1     | Software Attack | Progress      | [R1](r1-software-attack.md) |
+| R2     | Buffer Overflow | Progress      | [R2](r2-buffer-overflow.md) |
+| R3     | OS Attacks      | Progress      | [R3](r3-os-attacks.md)      |
+| R4     | Web Attacks     | Progress      | [R4](r4-web-attacks.md)     |
+| R5     | Network Attacks | Progress      | [R5](r5-network-attacks.md) |
+| R6     | Network Defense | Progress      | [R6](r6-network-defense.md) |
+| R7     | Kriptografi     | Progress      | [R7](r7-kriptografi.md)     |
 
 ---
 
-## 🧪 Environment
+## Environment
 
 * VM: SEED Ubuntu 20.04
 * Platform: VirtualBox
@@ -35,9 +29,6 @@ Keterangan:
 
 ---
 
-## 📌 Catatan
+## Catatan
 
 Seluruh percobaan dilakukan mandiri mengikuti panduan resmi SEED Labs.
-=======
-# computer-system-security-college-task
->>>>>>> 89d44e1f0ee6952655198399d4c053daaf95e6c1
