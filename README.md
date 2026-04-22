@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hands-On Lab SEED - Security Reports
 
 ## 👤 Identitas
@@ -37,3 +38,6 @@ Keterangan:
 ## 📌 Catatan
 
 Seluruh percobaan dilakukan mandiri mengikuti panduan resmi SEED Labs.
+=======
+# computer-system-security-college-task
+>>>>>>> 89d44e1f0ee6952655198399d4c053daaf95e6c1
