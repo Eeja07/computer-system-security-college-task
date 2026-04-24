@@ -9,8 +9,6 @@
 
 ## Status Laporan
 
-## Status Laporan
-
 | Report | Topik           | Status   | Link                        | Panduan Resmi |
 |--------|----------------|----------|-----------------------------|---------------|
 | R1     | Software Attack | Done     | [R1](r1-software-attack.md) | [SEED Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) |
