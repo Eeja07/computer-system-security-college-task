@@ -13,7 +13,7 @@
 |--------|----------------|----------|-----------------------------|---------------|
 | R1     | Software Attack | Done     | [R1](r1-software-attack.md) | [SEED Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) |
 | R2     | Buffer Overflow & Shellcode | Done | [R2](r2-buffer-overflow.md) | [SEED Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellcode/) |
-| R3     | OS Attacks      | Progress | [R3](r3-os-attacks.md)      | - |
+| R3     | OS Attacks (Race Condition, Dirty COW, Shellshock)      | Done | [R3](r3-os-attacks.md)      | [SEED Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Dirty_COW/)|
 | R4     | Web Attacks     | Progress | [R4](r4-web-attacks.md)     | - |
 | R5     | Network Attacks | Progress | [R5](r5-network-attacks.md) | - |
 | R6     | Network Defense | Progress | [R6](r6-network-defense.md) | - |
@@ -22,7 +22,7 @@
 
 ## Environment
 
-* VM: SEED Ubuntu 20.04
+* VM: SEED Ubuntu 20.04 dan SEED Ubuntu 12.04
 * Platform: VirtualBox
 * Tools: gcc, gdb, Wireshark, curl, dll
 
