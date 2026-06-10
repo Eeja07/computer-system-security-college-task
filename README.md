@@ -12,7 +12,7 @@
 | Report | Topik           | Status   | Link                        | Panduan Resmi |
 |--------|----------------|----------|-----------------------------|---------------|
 | R1     | Software Attack | Done     | [R1](r1-software-attack.md) | [SEED Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) |
-| R2     | Buffer Overflow | Progress | [R2](r2-buffer-overflow.md) | - |
+| R2     | Buffer Overflow & Shellcode | Done | [R2](r2-buffer-overflow.md) | [SEED Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellcode/) |
 | R3     | OS Attacks      | Progress | [R3](r3-os-attacks.md)      | - |
 | R4     | Web Attacks     | Progress | [R4](r4-web-attacks.md)     | - |
 | R5     | Network Attacks | Progress | [R5](r5-network-attacks.md) | - |
