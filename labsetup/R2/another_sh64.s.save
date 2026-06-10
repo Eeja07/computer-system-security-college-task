@@ -1,0 +1,61 @@
+section .text
+global _start
+
+_start:
+
+    push rdx
+
+    mov rax, 0x616c2d20736c20
+    push rax
+
+    mov rax, 0x3b6f6c6c6568206f
+    push rax
+
+    mov rax, 0x686365
+    push rax
+
+    mov rbx, rsp
+
+    ; ==================================================
+    ; "-c"
+    ; ==================================================
+
+    push rdx
+
+    mov ax, 0x632d
+    push rax
+
+    mov rcx, rsp
+
+    ; ==================================================
+    ; "/bin/bash"
+    ; ==================================================
+
+    push rdx
+
+    mov rax, 0x687361622f6e6962
+    push rax
+
+    mov ax, 0x2f
+    push rax
+
+    mov rdi, rsp
+
+    ; ==================================================
+    ; argv[]
+    ; ==================================================
+
+    push rdx
+    push rbx
+    push rcx
+    push rdi
+
+    mov rsi, rsp
+
+    ; ==================================================
+    ; execve()
+    ; ==================================================
+
+    xor rax, rax
+    mov al, 59
+    syscall
